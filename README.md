@@ -39,5 +39,5 @@ A custom algorithm is employed to determine the path:
 
 ## Visual Representation
 
-The game visually represents the pyramid and chambers, providing real-time feedback on pathfinding decisions and chamber statuses. This aids in understanding the underlying data structure manipulations and algorithmic choices.
+The game visually represents the pyramid and chambers, providing real-time feedback on pathfinding decisions and chamber statuses.
 
