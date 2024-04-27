@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Pyramid-X game, featured in the CS 1027 – Computer Science Fundamentals II course, is an exciting educational software that offers hands-on experience with advanced data structures through an adventurous setting. Players guide a renowned archaeology professor through the mystical Pyramid of X, navigating various chamber types with the goal of reaching treasure chambers while avoiding traps and hazards.
+The Pyramid-X game,  Players guide a renowned archaeology professor through the mystical Pyramid of X, navigating various chamber types with the goal of reaching treasure chambers while avoiding traps and hazards.
 
 ## Learning Outcomes
 
